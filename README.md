@@ -5,7 +5,6 @@ Projeto desenvolvido em dupla para a disciplina/curso, utilizando JavaScript e N
 ## Integrantes
 - L3-3O
 - arley2023
-- 
 ## Tema e Elemento
 -  Agência de Viagens
 -  Pacotes de Viagem
